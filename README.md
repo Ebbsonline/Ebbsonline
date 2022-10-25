@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ebbsonline
-- 👀 I’m interested in web development and problem solving 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on a project 
-- 📫 How to reach me on Gmail joelittle362@gmail.com
+- 👋 Hi, I’m @Ebenezer
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning python programming.
+- 💞️ I’m looking to collaborate on a software development project in the future.
+- 📫 How to reach me on Gmail joelittle362@gmail.com or +233547511588.
 
 <!---
 Ebbsonline/Ebbsonline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
